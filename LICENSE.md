@@ -1,4 +1,4 @@
-Copyright (c) Rohit Kumar Vasamsetti 2025
+Copyright © Rohit Kumar Vasamsetti - 2025
 
 This repository is intended solely for personal branding and informational purposes. All rights are reserved by the repository owner.
 
